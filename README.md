@@ -3,5 +3,6 @@ In this game the user represented by the square must eat all the points without 
 
 How to run:
 ```
-gcc CGame.c -o GGame.exe
+gcc CGame.c -o CGame
+./CGame
 ```
